@@ -23,6 +23,6 @@ Michele Nappi
 Lucia Cascone
 
 # Autori
-Luca Boffa
-Francesco Paciello 
+Luca Boffa,
+Francesco Paciello, 
 Vincenzo di Leo
